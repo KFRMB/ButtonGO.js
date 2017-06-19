@@ -29,6 +29,11 @@ var BGU = function(){
 this.positionup = 20;
 this.timeup = 100;
 }
+//values for button go left
+var BGL = function(){
+this.positionleft = 20;
+this.timeleft = 100;
+}
 //values for button go right
 var BGR = function(){
 this.positionleft = 20;

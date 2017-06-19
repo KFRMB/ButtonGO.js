@@ -89,12 +89,14 @@ document.getElementById('buttonGOdown').onclick = function() {
 //=============================================================================
 
 //button goes left 1 time
+
+var bgl = new BGL();
 document.getElementById('buttonGOleft').onclick = function() {
 
    var buttonGOleft = $('#buttonGOleft');
    function runbuttonGOleft() {
    	//go down
-       buttonGOleft.animate({left:'-=20'}, 1000);
+       buttonGOleft.animate({left:'-='+ bgl.positionleft}, bgl.timeleft);
    }
 
    runbuttonGOleft();
