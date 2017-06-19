@@ -1,0 +1,57 @@
+
+#buttonGOrandom{
+    position:absolute;
+    top:10px;
+    left:200px;
+}
+#buttonGOupANDdown{
+    position:absolute;
+    top:10px;
+    left:30px;
+}
+#buttonGOupANDdownHOVER{
+    position:absolute;
+    top:10px;
+    left:340px;
+}
+#buttonGOdown{
+    position:absolute;
+    top:10px;
+    left:100px;
+}
+#buttonGOup{
+    position:absolute;
+    top:300px;
+    left:160px;
+}
+#buttonGOleft{
+    position:absolute;
+    top:150px;
+    left:150px;
+}
+#buttonGOright{
+    position:absolute;
+    top:150px;
+    left:200px;
+}
+#buttonGOfly{
+    position:absolute;
+    top:50px;
+    left:350px;
+    overflow: hidden;
+}
+#x{
+    position:absolute;
+    top:300px;
+    left:10px;
+}
+#y{
+    position:absolute;
+    top:10px;
+    left:300px;
+}
+#z{
+    position:absolute;
+    top:300px;
+    left:300px;
+}
