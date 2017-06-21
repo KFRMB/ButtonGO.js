@@ -18,7 +18,7 @@ In order to use jQuery add the following line to your index.html:
 In order to make buttons do something you must give them the right ID.
 These are the following ID's you can currently use:
 
-id='buttonGOrandom'
+<b>id='buttonGOrandom'</b>
 
 this button moves to a random position within the given canvas when the mouse hovers over it.
 
@@ -36,7 +36,7 @@ this is the class ButtonMoveRandomValues, in this class you have the current pos
 
 > }
 
-id='buttonGOupANDdown'
+<b>id='buttonGOupANDdown'</b>
 
 this button will go up and down for unlimited time and starts when the page is loaded.
 
@@ -54,7 +54,7 @@ this is the class ButtonGoUpAndDown, in this class you have the amount of pixels
 
 > } 
 
-id='buttonGOupANDdownHOVER'
+<b>id='buttonGOupANDdownHOVER'</b>
 
 this button will go up and down when the user hovers over the button and stops when the mouse leaves and the animation is finished.
 
@@ -72,7 +72,7 @@ This is the class ButtonGoUpAndDownHover, in this class you can set the position
 
 > }
 
-id="buttonGOdown"
+<b>id="buttonGOdown"</b>
 
 
 
@@ -85,13 +85,13 @@ id="buttonGOdown"
 
 > }
 
-id="buttonGOup"
+<b>id="buttonGOup"</b>
 
-id="buttonGOleft"
+<b>id="buttonGOleft"</b>
 
-id="buttonGOright"
+<b>id="buttonGOright"</b>
 
-id='buttonGOfly'
+<b>id='buttonGOfly'</b>
 
 
 
