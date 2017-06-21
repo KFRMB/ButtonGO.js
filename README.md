@@ -19,11 +19,20 @@ In order to make buttons do something you must give them the right ID.
 These are the following ID's you can currently use:
 
 > <button id='buttonGOrandom'>Randomize</button>
+
 > <button id='buttonGOupANDdown'>Float</button>
+
 > <button id='buttonGOupANDdownHOVER'>FloatHover</button>
+
 > <button id="buttonGOdown">Down</button>
+
 > <button id="buttonGOup">Up</button>
+
 > <button id="buttonGOleft">Left</button>
+
 > <button id="buttonGOright">Right</button>
+
 > <button id='buttonGOfly'>Fly</button>
+
+
 
