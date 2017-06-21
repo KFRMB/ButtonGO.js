@@ -24,12 +24,12 @@ this button moves to a random position within the given canvas when the mouse ho
 
 this is the class ButtonMoveRandomValues, in this class you have the current position of the button (left and top) and the values of the canvas in which the button can move (canvasleft canvastop) in order to make the button work perfectly you should make the button obsolute in your css file. This will prevent elements from jumping away when the mouse hovers over the button.
 
-var BMRV = function(){
-this.BMRVpositionleft = 0;
-this.BMRVpositiontop = 0;
-this.BMRVcanvasleft = 300;
-this.BMRVcanvastop = 300;
-}
+> var BMRV = function(){
+> this.BMRVpositionleft = 0;
+> this.BMRVpositiontop = 0;
+> this.BMRVcanvasleft = 300;
+> this.BMRVcanvastop = 300;
+> }
 
 id='buttonGOupANDdown'
 
@@ -37,13 +37,12 @@ this button will go up and down for unlimited time and starts when the page is l
 
 this is the class ButtonGoUpAndDown, in this class you have the amount of pixels the button wil go down and up. (positiondown and positionup) in order to make the button go up and down faster (timedown and timeup). Also, give this button position obsolute as well if you like it to work better.
 
-//values for button GO up and down
-var BGUAD = function(){
-this.positiondown = 10;
-this.positionup = 10;
-this.timedown = 1000;
-this.timeup = 1000;
-} 
+> var BGUAD = function(){
+> this.positiondown = 10;
+> this.positionup = 10;
+> this.timedown = 1000;
+> this.timeup = 1000;
+> } 
 
 id='buttonGOupANDdownHOVER'
 
@@ -51,23 +50,22 @@ this button will go up and down when the user hovers over the button and stops w
 
 This is the class ButtonGoUpAndDownHover, in this class you can set the position to go up and down (positiondown and positionup) in amount of px. You can also set the time of the animation up and down (timedown and timeup) in ms.
 
-//values for button hover
-var BGUADH = function(){
-this.positiondown = 10;
-this.positionup = 10;
-this.timedown = 1000;
-this.timeup = 1000;
-}
+> var BGUADH = function(){
+> this.positiondown = 10;
+> this.positionup = 10;
+> this.timedown = 1000;
+> this.timeup = 1000;
+> }
 
 id="buttonGOdown"
 
 
 
 //values for button go down
-var BGD = function(){
-this.positiondown = 20;
-this.timedown = 100;
-}
+> var BGD = function(){
+> this.positiondown = 20;
+> this.timedown = 100;
+> }
 
 id="buttonGOup"
 
