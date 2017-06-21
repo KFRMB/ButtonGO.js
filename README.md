@@ -2,6 +2,7 @@
 Javascript framework for optimizing button interaction.
 
 <b> Bringing movement to your elements </b>
+
 With this easy-to-use you can make buttons do some crazy ****
 
 <b> Using jQuery </b>
