@@ -5,6 +5,8 @@ Javascript framework for optimizing button interaction.
 
 With this easy-to-use Framework you can make buttons do some crazy ****
 
+I created this framework because there was little movement in buttons, whether you're filling in a form for a driving license or completing your login form, how do you know you are at step 2? Just tell its step 2? Dude.. Thats lame, step up your game, add some movement in that button! For instance, make the button move right when the user clicks on next step. The user gets a better feeling, sees his or her progress better and the website has more interaction with the user making it more unique. An other instence for using my framework is for download buttons, just click and download... yeaaaaah hell no. lets take it up a notch, in my framework the download button moves out of your screen taking your download up like a rocket and landing on your pc! These kind of animations are the small change to making a website more interactive and amusing.
+
 <b> Using jQuery </b>
 
 In order to make my page load faster and avoid lagg in my animations i used jQuery. 
@@ -155,5 +157,5 @@ this is the class ButtonGoRcanvas, in this class you can set the x and y locatio
 
 
 
-
+<b> Kevin Frambach - Fontys FHICT Tilburg <b>
 
