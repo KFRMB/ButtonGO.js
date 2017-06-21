@@ -41,6 +41,7 @@ this.timeright = 100;
 this.buttonchecklist = 0;
 this.changetext = ["Right1", "Right2", "Right3", "Right4"];
 }
+//define location for fly button
 var BGRcanvas = function(){
 this.x = -100;
 this.y = 100; 

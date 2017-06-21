@@ -22,7 +22,6 @@ $(function(){
 //=============================================================================
  
 //button goes up and down unlimited time
-//button goes up and down unlimited time
   var bguad = new BGUAD();
   
    var buttonGOupANDdown = $('#buttonGOupANDdown');
@@ -89,7 +88,6 @@ document.getElementById('buttonGOdown').onclick = function() {
 //=============================================================================
 
 //button goes left 1 time
-
 var bgl = new BGL();
 document.getElementById('buttonGOleft').onclick = function() {
 
@@ -154,7 +152,6 @@ function translate( elem ) {
         elem.style.top = ( top - ( dy * i / bgrcanvas.count ) ).toFixed( 0 ) + 'px';
         setTimeout( loop, bgrcanvas.delay );
     }
-    
     loop();
 }
 
