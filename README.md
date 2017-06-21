@@ -18,21 +18,21 @@ In order to use jQuery add the following line to your index.html:
 In order to make buttons do something you must give them the right ID.
 These are the following ID's you can currently use:
 
-<button id='buttonGOrandom'>Randomize</button>
+id='buttonGOrandom'
 
-<button id='buttonGOupANDdown'>Float</button>
+id='buttonGOupANDdown'
 
-<button id='buttonGOupANDdownHOVER'>FloatHover</button>
+id='buttonGOupANDdownHOVER'
 
-<button id="buttonGOdown">Down</button>
+id="buttonGOdown"
 
-<button id="buttonGOup">Up</button>
+id="buttonGOup"
 
-<button id="buttonGOleft">Left</button>
+id="buttonGOleft"
 
-<button id="buttonGOright">Right</button>
+id="buttonGOright"
 
-<button id='buttonGOfly'>Fly</button>
+id='buttonGOfly'
 
 
 
